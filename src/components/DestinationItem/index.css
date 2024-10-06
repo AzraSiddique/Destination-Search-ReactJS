@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.image-card {
+  margin: 10px;
+}
+
+.image {
+  border-radius: 10px;
+  height: 300px;
+  width: 400px;
+  margin-right: 20px;
+}
+
+.name {
+  font-family: 'Open Sans';
+}
